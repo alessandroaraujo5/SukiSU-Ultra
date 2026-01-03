@@ -32,5 +32,5 @@ curl -LSs ‘https://raw.githubusercontent.com/SukiSU-Ultra/SukiSU-Ultra/main/ke
 
 - Built-in Branch (for GKI/non-GKI builds, optional susfs support)
 ```sh
-curl -LSs ‘https://raw.githubusercontent.com/SukiSU-Ultra/SukiSU-Ultra/main/kernel/setup.sh’ | bash -s builtin
+curl -LSs "https://raw.githubusercontent.com/alessandroaraujo5/SukiSU-Ultra/main/kernel/setup.sh" | bash -s builtin
 ```
