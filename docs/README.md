@@ -37,7 +37,7 @@ See [`guide/installation.md`](guide/installation.md)
 
 ## Curl
 
-curl -LSs "https://raw.githubusercontent.com/alessandroaraujo5/SukiSU-Ultra/main/kernel/setup.sh" | bash -s builtin
+.(curl -LSs "https://raw.githubusercontent.com/alessandroaraujo5/SukiSU-Ultra/main/kernel/setup.sh" | bash -s builtin).
 
 ## Integration
 
