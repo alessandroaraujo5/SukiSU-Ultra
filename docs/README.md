@@ -37,7 +37,7 @@ See [`guide/installation.md`](guide/installation.md)
 
  **main branch**
 ```
-curl -LSs "https://raw.githubusercontent.com/rsuntk/KernelSU/main/kernel/setup.sh" | bash -s main
+curl -LSs "https://raw.githubusercontent.com/alessandroaraujo5/SukiSU-Ultra/main/kernel/setup.sh" | bash -s builtin
 ```
 
 ## Integration
