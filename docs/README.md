@@ -35,9 +35,10 @@ A kernel-based root solution for Android devices, forked from [`tiann/KernelSU`]
 
 See [`guide/installation.md`](guide/installation.md)
 
-## Curl
-
-.(curl -LSs "https://raw.githubusercontent.com/alessandroaraujo5/SukiSU-Ultra/main/kernel/setup.sh" | bash -s builtin).
+ **main branch**
+```
+curl -LSs "https://raw.githubusercontent.com/rsuntk/KernelSU/main/kernel/setup.sh" | bash -s main
+```
 
 ## Integration
 
